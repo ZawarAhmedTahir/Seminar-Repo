@@ -1,1 +1,5 @@
 git clone https://github.com/ZawarAhmedTahir/Seminar-Repo.git
+git status
+git add commands.txt
+git commit -m "commit.txt added"
+git push
